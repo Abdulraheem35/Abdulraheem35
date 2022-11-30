@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Abdulraheem35
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abdulraheem35/Abdulraheem35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!Doctype>
+<html>
+ <head>
+  <title>::.. my first page..::</title>
+ </head>
+ 
+ <body>
+  <img src="raheem.png">
+  
+  <p> My name is <b>Abdulraheem Alimi</b>, 
+  and a student of Biomedical Engineering,
+   Bells University of Technology </p>
+ </body>
+</html>
